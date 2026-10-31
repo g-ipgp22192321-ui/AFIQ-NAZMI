@@ -1,0 +1,6 @@
+{
+  "name": "DEBACA 4.0: Pengembaraan Detektif",
+  "description": "Inovasi Pembelajaran Interaktif Bahasa Melayu Tahun 4: Baca, Siasat, Fikir, Buktikan bersama Detektif Cilik.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
